@@ -6,5 +6,6 @@
     "src/galleria.js",
     "src/themes/classic/galleria.classic.js",
     "src/themes/classic/galleria.classic.css"
-  ]
+  ],
+  "ignore": []
 }
